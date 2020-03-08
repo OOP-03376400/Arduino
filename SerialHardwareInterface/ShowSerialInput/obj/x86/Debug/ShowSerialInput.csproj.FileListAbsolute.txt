@@ -1,0 +1,10 @@
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\bin\Debug\ShowSerialInput.exe.config
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\bin\Debug\ShowSerialInput.exe
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\bin\Debug\ShowSerialInput.pdb
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.csprojAssemblyReference.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.FormSerialDisplay.resources
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.GraphControl.resources
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.Properties.Resources.resources
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.csproj.GenerateResource.cache
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.exe
+F:\00Embedded\repositories\EmbeddedSystemClass\Arduino\SerialHardwareInterface\ShowSerialInput\obj\x86\Debug\ShowSerialInput.pdb

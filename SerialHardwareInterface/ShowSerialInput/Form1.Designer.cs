@@ -137,9 +137,9 @@
             // 
             // graphControl
             // 
-            this.graphControl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.graphControl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.graphControl.BackColor = System.Drawing.Color.Black;
             this.graphControl.Location = new System.Drawing.Point(38, 12);
             this.graphControl.Max = 1023;
@@ -168,6 +168,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormSerialDisplay";
             this.Text = "Serial Display";
+            this.Load += new System.EventHandler(this.FormSerialDisplay_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

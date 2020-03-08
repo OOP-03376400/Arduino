@@ -89,5 +89,10 @@ namespace ShowSerialInput
         {
             this.Close();
         }
+
+        private void FormSerialDisplay_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
